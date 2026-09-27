@@ -1,5 +1,7 @@
 # AWS VPC Setup Steps
 
+![AWS VPC Architecture](./images/vpc.png)
+
 1. **Create VPC** with CIDR `10.0.0.0/16`
 
 2. **Create Internet Gateway** and attach it to the VPC.
